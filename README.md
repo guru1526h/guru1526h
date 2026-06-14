@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Guru Prasad 
 
-<!--
-**guru1526h/guru1526h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Data Analyst and Product Solutions Engineer with 2+ years of experience in SQL, PL/SQL, ETL Pipelines, API Integrations, and Shopify Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+* Data Analytics
+* Power BI
+* Python
+* Cloud Technologies (AWS)
+* International Career Opportunities
+
+### Technical Skills
+
+* SQL
+* PL/SQL
+* Python
+* Power BI
+* REST APIs
+* GraphQL APIs
+* ETL Pipelines
+* Shopify Analytics
+
+### Professional Experience
+
+* 200+ Global Clients Supported
+* 5+ Third-Party Platform Integrations
+* Power BI Dashboard Development
+* Database Optimization
+* API-Based Data Solutions
+
+### Connect With Me
+
+LinkedIn: [www.linkedin.com/in/guru-prasad-h-510499254](http://www.linkedin.com/in/guru-prasad-h-510499254)
+Email: [guruhakkyanna@gmail.com](mailto:guruhakkyanna@gmail.com)
